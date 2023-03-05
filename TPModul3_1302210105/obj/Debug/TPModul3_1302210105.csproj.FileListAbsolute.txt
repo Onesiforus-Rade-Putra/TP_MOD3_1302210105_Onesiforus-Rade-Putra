@@ -1,0 +1,11 @@
+F:\data\Konstruksi Perangkat Lunak\TPModul3_1302210105\TPModul3_1302210105\bin\Debug\TPModul3_1302210105.exe.config
+F:\data\Konstruksi Perangkat Lunak\TPModul3_1302210105\TPModul3_1302210105\bin\Debug\TPModul3_1302210105.exe
+F:\data\Konstruksi Perangkat Lunak\TPModul3_1302210105\TPModul3_1302210105\bin\Debug\TPModul3_1302210105.pdb
+F:\data\Konstruksi Perangkat Lunak\TPModul3_1302210105\TPModul3_1302210105\obj\Debug\TPModul3_1302210105.csproj.AssemblyReference.cache
+F:\data\Konstruksi Perangkat Lunak\TPModul3_1302210105\TPModul3_1302210105\obj\Debug\TPModul3_1302210105.csproj.SuggestedBindingRedirects.cache
+F:\data\Konstruksi Perangkat Lunak\TPModul3_1302210105\TPModul3_1302210105\obj\Debug\TPModul3_1302210105.Form1.resources
+F:\data\Konstruksi Perangkat Lunak\TPModul3_1302210105\TPModul3_1302210105\obj\Debug\TPModul3_1302210105.Properties.Resources.resources
+F:\data\Konstruksi Perangkat Lunak\TPModul3_1302210105\TPModul3_1302210105\obj\Debug\TPModul3_1302210105.csproj.GenerateResource.cache
+F:\data\Konstruksi Perangkat Lunak\TPModul3_1302210105\TPModul3_1302210105\obj\Debug\TPModul3_1302210105.csproj.CoreCompileInputs.cache
+F:\data\Konstruksi Perangkat Lunak\TPModul3_1302210105\TPModul3_1302210105\obj\Debug\TPModul3_1302210105.exe
+F:\data\Konstruksi Perangkat Lunak\TPModul3_1302210105\TPModul3_1302210105\obj\Debug\TPModul3_1302210105.pdb
